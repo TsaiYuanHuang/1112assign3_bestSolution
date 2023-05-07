@@ -1,4 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nYOyCok8)
+author: B11110009
+
 ## Requirements：
 ### 1-star (wave 1 - straight line)
 - Five enemy planes are lined up in a "straight line" and start flying from the left boundary towards the right. The horizontal spacing between enemy planes is 20px.
